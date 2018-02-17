@@ -1,0 +1,18 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\bin\Debug\Kargo.exe.config
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\bin\Debug\Kargo.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\bin\Debug\Kargo.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\obj\Debug\Kargo.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\obj\Debug\Kargo.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\Kargo\Kargo\obj\Debug\Kargo.pdb
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\bin\Debug\Kargo.exe.config
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\obj\Debug\Kargo.exe
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\obj\Debug\Kargo.pdb
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\bin\Debug\Kargo.exe
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\bin\Debug\Kargo.pdb
+F:\Ders İçerikleri\C# 2\Verilen Ödevler\Kargo\Kargo\Kargo\obj\Debug\Kargo.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Kargo\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\Mustafa\Desktop\Kargo\Kargo\obj\Debug\Kargo.exe
+C:\Users\Mustafa\Desktop\Kargo\Kargo\obj\Debug\Kargo.pdb
+C:\Users\Mustafa\Desktop\Kargo\Kargo\bin\Debug\Kargo.exe
+C:\Users\Mustafa\Desktop\Kargo\Kargo\bin\Debug\Kargo.pdb
+C:\Users\Mustafa\Desktop\Kargo\Kargo\obj\Debug\Kargo.csprojResolveAssemblyReference.cache
